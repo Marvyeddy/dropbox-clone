@@ -25,7 +25,7 @@
 	</div>
 	<video
 		src="https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/dropbox/dbx1-hero-1920x1080.mp4"
-		class="mt-10"
+		class="mt-10 h-[calc(100vh-72px)] w-full object-cover"
 		autoplay
 		playsinline
 		loop
